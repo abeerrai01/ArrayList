@@ -16,7 +16,7 @@ class Student {
     }
 }
 
-public class merge {
+public class StudentArrayList {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         ArrayList<Student> obj = new ArrayList<>();
